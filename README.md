@@ -1,2 +1,2 @@
 # E.Bobyleva_Projects
-Репозиторий Екатерины Бобылёвой
+Repository of Ekaterina Bobyleva
